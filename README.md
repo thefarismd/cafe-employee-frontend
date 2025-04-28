@@ -9,7 +9,7 @@ This repository contains the frontend for the **CafeEmployee** application, buil
 Because of project requirements and to align with the backend design:
 
 - **Core functionality first**  
-  Priority is placed on delivering essential user-facing features and integrating with backend APIs.  
+  - Priority is placed on delivering essential user-facing features and integrating with backend APIs.  
   - Focus is maintained to avoid over-engineering and prevent deviation from user requirements.  
   - Enhancements, optimizations, refactoring to hooks/helper and extras are considered secondary and only implemented if truly needed.
 
@@ -39,10 +39,7 @@ Because of project requirements and to align with the backend design:
 
 ## Development Setup
 
-A1. Navigate to the `cafe-employee-frontend/` folder:
-    ```bash
-    cd cafe-employee-frontend
-    ```
+1. Navigate to the `cafe-employee-frontend/` folder:
 
 2. Install all dependencies:
     ```bash
